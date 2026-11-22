@@ -1,0 +1,12 @@
+{
+  "model": "gemini-3.1-flash-lite",
+  "prompt_version": "v1.0",
+  "temperature": 0,
+  "candidate_count": 20,
+  "top_k": 5,
+  "prompt_template_function": "build_prompt",
+  "prompt_sha256_example": "9376ec5d34c38eebeddb9af09eea5b5f11d3979c226491a9e2a465cc15200d25",
+  "candidate_sampling_seed": 2026,
+  "dataset": "AgentRecBench Amazon Long-term",
+  "evaluation": "custom benchmark-derived candidate ranking"
+}
